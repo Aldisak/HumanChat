@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanChat.Application", "HumanChat.Application\HumanChat.Application.csproj", "{7F9695F6-304E-40A1-8862-230F6C4D63B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9695F6-304E-40A1-8862-230F6C4D63B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9695F6-304E-40A1-8862-230F6C4D63B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9695F6-304E-40A1-8862-230F6C4D63B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9695F6-304E-40A1-8862-230F6C4D63B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
